@@ -1,4 +1,7 @@
-# test coverage for  [bitcoin (v3.0.1)](https://github.com/freewil/node-bitcoin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bitcoin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bitcoin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bitcoin.svg)](https://travis-ci.org/npmtest/node-npmtest-bitcoin)
+# npmtest-bitcoin
+
+#### basic test coverage for  [bitcoin (v3.0.1)](https://github.com/freewil/node-bitcoin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bitcoin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bitcoin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bitcoin.svg)](https://travis-ci.org/npmtest/node-npmtest-bitcoin)
+
 #### Communicate with bitcoind via JSON-RPC
 
 [![NPM](https://nodei.co/npm/bitcoin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bitcoin)
